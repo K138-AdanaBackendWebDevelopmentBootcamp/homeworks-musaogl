@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/homeworks-musaogl.iml" filepath="$PROJECT_DIR$/homeworks-musaogl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weekOne/weekOne.iml" filepath="$PROJECT_DIR$/weekOne/weekOne.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weekTwo/weekTwo.iml" filepath="$PROJECT_DIR$/weekTwo/weekTwo.iml" />
+    </modules>
+  </component>
+</project>
